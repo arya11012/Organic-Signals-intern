@@ -1,0 +1,61 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color:bisque;
+    height: 40vh;
+    width:30vw;
+    border-radius: 14px;
+}
+input {
+    width: 15vw;
+    height: 6vh;
+    margin-top: 5px;
+    background-color:pink;
+    border-radius: 10px;
+    border-width: 7px;
+    border-color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    padding: 0px;
+    margin: 5px;
+}
+.hea{
+    font-size: larger;
+}
+.Login{
+    width: 10vw;
+}
+.a{
+    text-decoration: none;
+}
+button{
+    height: 5vh;
+    width: 10vw;
+    text-decoration: none;
+    background-color:pink;
+    border-radius: 10px;
+    border-width: 7px;
+}
+.btn{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+.btn:hover{
+    font-weight: bolder;
+}
